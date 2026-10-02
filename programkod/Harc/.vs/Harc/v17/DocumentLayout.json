@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Niki\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\oop\\nagybeadando\\programkod\\Harc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAA0478-276C-4C2F-99C6-8D4E68E6C764}|Harc.csproj|c:\\users\\niki\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\oop\\nagybeadando\\programkod\\harc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAA0478-276C-4C2F-99C6-8D4E68E6C764}|Harc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F11E357-8716-41D2-8366-6A3676841955}|..\\Harc.Tesztek\\Harc.Tesztek.csproj|c:\\users\\niki\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\oop\\nagybeadando\\programkod\\harc.tesztek\\harctesztek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAA0478-276C-4C2F-99C6-8D4E68E6C764}|Harc.csproj|c:\\users\\niki\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\oop\\nagybeadando\\programkod\\harc\\iharcosvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAA0478-276C-4C2F-99C6-8D4E68E6C764}|Harc.csproj|solutionrelative:iharcosvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAA0478-276C-4C2F-99C6-8D4E68E6C764}|Harc.csproj|c:\\users\\niki\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\oop\\nagybeadando\\programkod\\harc\\ork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAA0478-276C-4C2F-99C6-8D4E68E6C764}|Harc.csproj|solutionrelative:ork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAA0478-276C-4C2F-99C6-8D4E68E6C764}|Harc.csproj|c:\\users\\niki\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\oop\\nagybeadando\\programkod\\harc\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAA0478-276C-4C2F-99C6-8D4E68E6C764}|Harc.csproj|solutionrelative:elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAA0478-276C-4C2F-99C6-8D4E68E6C764}|Harc.csproj|c:\\users\\niki\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\oop\\nagybeadando\\programkod\\harc\\harcos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAA0478-276C-4C2F-99C6-8D4E68E6C764}|Harc.csproj|solutionrelative:harcos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HarcTesztek.cs",
+              "DocumentMoniker": "C:\\Users\\Niki\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\oop\\nagybeadando\\programkod\\Harc.Tesztek\\HarcTesztek.cs",
+              "RelativeDocumentMoniker": "..\\Harc.Tesztek\\HarcTesztek.cs",
+              "ToolTip": "C:\\Users\\Niki\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\oop\\nagybeadando\\programkod\\Harc.Tesztek\\HarcTesztek.cs",
+              "RelativeToolTip": "..\\Harc.Tesztek\\HarcTesztek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T23:46:58.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHarcosVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\Niki\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\oop\\nagybeadando\\programkod\\Harc\\IHarcosVisitor.cs",
+              "RelativeDocumentMoniker": "IHarcosVisitor.cs",
+              "ToolTip": "C:\\Users\\Niki\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\oop\\nagybeadando\\programkod\\Harc\\IHarcosVisitor.cs",
+              "RelativeToolTip": "IHarcosVisitor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T23:46:39.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ork.cs",
+              "DocumentMoniker": "C:\\Users\\Niki\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\oop\\nagybeadando\\programkod\\Harc\\Ork.cs",
+              "RelativeDocumentMoniker": "Ork.cs",
+              "ToolTip": "C:\\Users\\Niki\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\oop\\nagybeadando\\programkod\\Harc\\Ork.cs",
+              "RelativeToolTip": "Ork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:37:29.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Elf.cs",
+              "DocumentMoniker": "C:\\Users\\Niki\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\oop\\nagybeadando\\programkod\\Harc\\Elf.cs",
+              "RelativeDocumentMoniker": "Elf.cs",
+              "ToolTip": "C:\\Users\\Niki\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\oop\\nagybeadando\\programkod\\Harc\\Elf.cs",
+              "RelativeToolTip": "Elf.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:20:24.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Harcos.cs",
+              "DocumentMoniker": "C:\\Users\\Niki\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\oop\\nagybeadando\\programkod\\Harc\\Harcos.cs",
+              "RelativeDocumentMoniker": "Harcos.cs",
+              "ToolTip": "C:\\Users\\Niki\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\oop\\nagybeadando\\programkod\\Harc\\Harcos.cs",
+              "RelativeToolTip": "Harcos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:19:25.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Niki\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\oop\\nagybeadando\\programkod\\Harc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Niki\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\oop\\nagybeadando\\programkod\\Harc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAgwEYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:51:52.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

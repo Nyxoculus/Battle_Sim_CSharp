@@ -1,0 +1,15 @@
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\bin\Debug\net9.0\Harc.exe
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\bin\Debug\net9.0\Harc.deps.json
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\bin\Debug\net9.0\Harc.runtimeconfig.json
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\bin\Debug\net9.0\Harc.dll
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\bin\Debug\net9.0\Harc.pdb
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\obj\Debug\net9.0\Harc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\obj\Debug\net9.0\Harc.AssemblyInfoInputs.cache
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\obj\Debug\net9.0\Harc.AssemblyInfo.cs
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\obj\Debug\net9.0\Harc.csproj.CoreCompileInputs.cache
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\obj\Debug\net9.0\Harc.dll
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\obj\Debug\net9.0\refint\Harc.dll
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\obj\Debug\net9.0\Harc.pdb
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\obj\Debug\net9.0\Harc.genruntimeconfig.cache
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\obj\Debug\net9.0\ref\Harc.dll
+C:\Users\Niki\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\oop\nagybeadando\programkod\Harc\bin\Debug\net9.0\input.txt
